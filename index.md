@@ -12,4 +12,4 @@ title: Software Center
 [Arachna 2 Online](https://247086.github.io/software-downloads/playable/Arachna2.html)
 
 *Downloads*
-[Arachna Bundle](https://247086.github.io/software-downloads/Unavailable.md)
+[Arachna Bundle](https://247086.github.io/software-downloads/downloads/Arachna%20Bundle%20Download.zip)
