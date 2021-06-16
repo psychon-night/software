@@ -1,3 +1,7 @@
+---
+title: Software Center
+---
+
 EmmyKit - Software Downloads
 
 You can download my software and games from here
