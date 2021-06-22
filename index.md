@@ -24,4 +24,4 @@ title: Software Center
 
 [Arachna Bundle](https://247086.github.io/software/downloads/Arachna%20Bundle%20Download.zip)
 
-[Arachna Mods Bundle](247086.github.io/software/downloads/Arachna%20Mod%20Download.zip)
+[Arachna Mods Bundle](https://247086.github.io/software/downloads/Arachna%20Mod%20Download.zip)
