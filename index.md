@@ -34,4 +34,4 @@ title: Software Center
 #### Software Utilities
 ###### * Indicates a link to an external website
 
-[Com Client]() ###### Utility is currently not available for download
+[Com Client]() #### Utility is currently not available for download
