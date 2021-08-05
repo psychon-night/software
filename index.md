@@ -39,4 +39,4 @@ title: Software Center
 
 #### Miscellaneous
 
-[Minecraft Anarchy Server](https://247086.github.io/software/misc/hyperanarchy.html)
+[Minecraft Anarchy Server](https://247086.github.io/software/hyperanarchy.html)
