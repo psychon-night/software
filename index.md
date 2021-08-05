@@ -21,10 +21,10 @@ title: Software Center
 
 
 *Downloads*
-###### ^ Indicates a link to an external website
+###### * Indicates a link to an external website
 
 [Arachna Bundle](https://247086.github.io/software/downloads/Arachna%20Bundle%20Download.zip)
 
 [Arachna Mods Bundle](https://247086.github.io/software/downloads/Arachna%20Mod%20Download.zip)
 
-[^Arachna 2: Eternal Night (DLC)](https://www.dropbox.com/s/zpfmpy8nmu4qu71/Arachna%202%20%2B%20DLC%201.0.8.html?dl=0)
+[Arachna 2: Eternal Night (DLC)*](https://www.dropbox.com/s/zpfmpy8nmu4qu71/Arachna%202%20%2B%20DLC%201.0.8.html?dl=0)
