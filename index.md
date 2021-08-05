@@ -35,3 +35,8 @@ title: Software Center
 ###### * Indicates a link to an external website
 
 [Com Client]() _This utility is not available for download at this time_
+
+
+#### Miscellaneous
+
+[Minecraft Anarchy Server](https://247086.github.io/software/misc/hyperanarchy.html)
