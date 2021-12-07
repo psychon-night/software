@@ -34,9 +34,4 @@ title: Software Center
 #### Software Utilities
 ###### * Indicates a link to an external website
 
-[Com Client]() _This utility is not available for download at this time_
-
-
-#### Miscellaneous
-
-[Minecraft Anarchy Server](https://247086.github.io/software/hyperanarchy.html)
+[Com Client _1.0.5.1_](https://github.com/247086/communicationService/releases/download/v1.0.5-patch1/1.0.5_fixed_inst.zip)
